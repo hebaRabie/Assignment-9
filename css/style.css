@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    color: 
+    RGB(0, 0, 0);
+  }
+  
+  h1 {
+    font-size: 80px;
+    font-family: Impact;
+  }
+  
+  p {
+    font-size: 35px;
+  }
+  
+  button {
+    color: white;
+    font-size: 14px;
+    padding: 10px 20px;
+    border: 2px black solid;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 250px;
+    height: 80px;
+  }
+  
+  button:hover{
+    background-color: green !important;
+}
+  
+  #quote {
+    font-size: 24px;
+    font-style: italic;
+  }
+  
+  #author {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
